@@ -1,0 +1,7 @@
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\bin\Debug\TimeToOvertaking.exe.config
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\bin\Debug\TimeToOvertaking.exe
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\bin\Debug\TimeToOvertaking.pdb
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\obj\Debug\TimeToOvertaking.csprojResolveAssemblyReference.cache
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\obj\Debug\TimeToOvertaking.csproj.CoreCompileInputs.cache
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\obj\Debug\TimeToOvertaking.exe
+C:\Users\Ivan0209\source\repos\TimeToOvertaking\TimeToOvertaking\obj\Debug\TimeToOvertaking.pdb
